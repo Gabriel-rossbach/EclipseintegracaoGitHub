@@ -4,8 +4,9 @@ public class teste {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("teste2");
-		System.out.println("teste7");
+		System.out.println("teste4");
+		
+		
 
 	}
 
